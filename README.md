@@ -60,7 +60,7 @@ cd Portfolio-Nagaraj
 open index.html
 ```
 
-(Or double-click `index.htm`)
+(Or double-click `index.html`)
 
 ### **Live Website**
 
