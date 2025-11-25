@@ -4,6 +4,7 @@
 A personal portfolio website showcasing skills, projects, experience, and contact information.
 Built for recruiters, hiring managers, and clients to quickly understand my technical profile.
 
+
 ---
 
 ## ⭐ **Features**
@@ -59,7 +60,7 @@ cd Portfolio-Nagaraj
 open index.html
 ```
 
-(Or double-click `index.html`)
+(Or double-click `index.htm`)
 
 ### **Live Website**
 
